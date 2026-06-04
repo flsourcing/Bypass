@@ -1,10 +1,10 @@
 {
-  "version": "0.1.2",
+  "version": "0.1.3",
   "file": "Bypass.exe",
   "repo": "https://github.com/flsourcing/Bypass",
   "additions": [
-    "Test update build for in-app updater validation",
-    "Bumped desktop app version to 0.1.2",
-    "Verifies 0.1.1 can pull and install 0.1.2"
+    "Fixed portable updater replacing the extracted temp exe instead of the real downloaded exe",
+    "Updater now targets the actual portable Bypass.exe path",
+    "Bumped desktop app version to 0.1.3"
   ]
 }
