@@ -1,5 +1,10 @@
 {
   "version": "0.1.0",
   "file": "Bypass.exe",
-  "repo": "https://github.com/flsourcing/Bypass"
+  "repo": "https://github.com/flsourcing/Bypass",
+  "additions": [
+    "Initial public Bypass desktop release",
+    "Footlocker Mobile raffle entry task setup, import, export, and grouped sizing",
+    "Settings update checker now reads Bypass Cloud update manifest"
+  ]
 }

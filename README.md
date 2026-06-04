@@ -12,6 +12,8 @@ Current build: `0.1.0`
 
 ## Updates
 
-The app checks GitHub Releases from:
+The app checks the Bypass Cloud update manifest. Each update should include:
 
-`https://github.com/flsourcing/Bypass/releases/latest`
+- Version number
+- `Bypass.exe`
+- Additions / changelog notes
