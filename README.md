@@ -8,7 +8,7 @@ Download `Bypass.exe` from this repository or from the latest GitHub Release.
 
 ## Version
 
-Current build: `0.1.3`
+Current build: `0.1.4`
 
 ## Updates
 
