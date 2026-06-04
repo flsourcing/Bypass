@@ -1,10 +1,10 @@
 {
-  "version": "0.1.5",
+  "version": "0.1.6",
   "file": "Bypass.exe",
   "repo": "https://github.com/flsourcing/Bypass",
   "additions": [
     "Test update build for updater replacement validation",
     "Bumped desktop app version to 0.1.5",
-    "Updater now logs replacement attempts and force-stops target Bypass.exe before copying"
+    "Bumped desktop app version to 0.1.6"
   ]
 }
